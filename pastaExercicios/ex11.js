@@ -11,3 +11,12 @@ function calcularAnoBissexto(ano) {
         return false
     }
 }
+
+
+console.log(calcularAnoBissexto(0))
+console.log(calcularAnoBissexto(4))
+console.log(calcularAnoBissexto(100))
+console.log(calcularAnoBissexto(400))
+console.log(calcularAnoBissexto(800))
+console.log(calcularAnoBissexto(2020))
+console.log(calcularAnoBissexto(2021))
