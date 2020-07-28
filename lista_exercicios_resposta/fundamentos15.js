@@ -1,4 +1,4 @@
-function escolherCarro (modelo) {
+function escolherCarro(modelo) {
     switch (modelo) {
         case 'hatch':
             return 'Compra efetuada com sucesso.'
@@ -10,6 +10,7 @@ function escolherCarro (modelo) {
             return 'Não trabalhamos com este tipo de automóvel aqui.'
     }
 }
+
 
 console.log(escolherCarro('hatch'));
 console.log(escolherCarro('motocicleta'));
