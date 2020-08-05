@@ -1,0 +1,1 @@
+funcao anuidade = (1janeiro, 2fevereiro)
