@@ -13,4 +13,5 @@ function calcularPreco (idade) {
 console.log(calcularPreco(8));
 console.log(calcularPreco(15));
 console.log(calcularPreco(35));
-console.
+console.log(calcularPreco(52));
+console.log(calcularPreco(80));
