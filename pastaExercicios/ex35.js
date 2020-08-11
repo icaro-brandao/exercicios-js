@@ -1,5 +1,5 @@
-let vetorPilha = [1, 2, 3, 4, 5]
-let vetorAdiciona = [6, 7, 8, 9, 10]
+let vetorPilha = [1, 2, 3, 4, 5, 6]
+let vetorAdiciona = [6, 7, 8, 9, 10, 11]
 
 function adicionaVetor(vetorInicial, vetorAdicionar) {
     for(let i = 0; i < vetorAdicionar.length; i++) {
