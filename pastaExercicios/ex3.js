@@ -1,11 +1,6 @@
-function expoente(base, expoente) {
-    //Podemos fazer de 2 modos
-    //Método antigo:
-    let resultado = Math.pow(base, expoente)
-    //Método novo:
-    resultado = base ** expoente
+function calculo (base, expoente){
+   resultado = base ** expoente
 
-    return resultado
+   return resultado
 }
-
-console.log(expoente(4, 5))
+console.log(calculo (2, 4))
