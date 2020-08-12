@@ -1,5 +1,6 @@
-function calcularOperacoes(operador1, operador2) {
-    console.log(operador1 + operador2, operador1 - operador2, operador1 * operador2, operador1 / operador2);
+function calcularOperacoes (numero1, numero2) {
+    console.log(numero1 + numero2, numero1 - numero2, numero1 * numero2, numero1/numero2)
 }
 
-calcularOperacoes(3, 5)
+calcularOperacoes(2, 6)
+
