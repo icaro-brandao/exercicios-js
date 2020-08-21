@@ -2,13 +2,13 @@ const pilotos = ['Vettel', 'Alonso', 'Raikkonen', 'Massa']
 pilotos.pop() // massa quebrou o carro!
 console.log(pilotos)
 
-pilotos.push('Verstappen')
+pilotos.push('Verstappen')  // adiciona na ultima posição
 console.log(pilotos)
 
 pilotos.shift() // remove o primeiro!
 console.log(pilotos)
 
-pilotos.unshift('Hamilton')
+pilotos.unshift('Hamilton')  // adiciona na primeira posiçaõ... no índice 0
 console.log(pilotos)
 
 // splice pode adicionar e remover elementos
